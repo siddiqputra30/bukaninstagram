@@ -27,5 +27,5 @@ function hideDashboard() {
 }
 
 function gotoDashboard() {
-  window.location.replace("http://localhost:9000/index.html");
+  window.location.replace("http://localhost:8080/index.html");
 }
